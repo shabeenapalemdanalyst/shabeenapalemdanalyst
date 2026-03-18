@@ -58,7 +58,7 @@ My journey into Data Analytics
 
 📫 How to reach me:
 
-🔗 GitHub: (Add your GitHub link)
+🔗 GitHub: [(My GitHub)](https://github.com/shabeenapalemdanalyst)
 
 💼 LinkedIn: [(My LinkedIn)](https://www.linkedin.com/in/shabeenapalem/)
 
