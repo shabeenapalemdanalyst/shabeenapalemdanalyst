@@ -1,10 +1,10 @@
-👋 Hi there, I'm Shabeena Palem,an Aspiring Data Analyst
+#👋 Hi there, I'm Shabeena Palem,an Aspiring Data Analyst
 
 I am a Data Analytics enthusiast currently building hands-on experience in transforming raw data into meaningful insights. I am actively developing skills in Power BI, SQL, Excel, and Python, while managing my journey as a dedicated mom.
 
 I am passionate about data-driven decision-making, dashboard development, and business intelligence solutions.
 
-🛠️ Tools & Technologies
+##🛠️ Tools & Technologies
 
 MS SQL Server – Data querying & management
 
