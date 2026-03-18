@@ -60,7 +60,7 @@ My journey into Data Analytics
 
 🔗 GitHub: (Add your GitHub link)
 
-💼 LinkedIn: [(Add your LinkedIn profile)](https://www.linkedin.com/in/shabeenapalem/)
+💼 LinkedIn: [(My LinkedIn)](https://www.linkedin.com/in/shabeenapalem/)
 
 😄 Pronouns:
 
