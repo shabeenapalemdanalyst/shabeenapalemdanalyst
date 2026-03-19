@@ -14,7 +14,7 @@ MS Excel – Data analysis & reporting
 
 Python – Data processing & analysis
 
-# 🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 
 Developing end-to-end Power BI dashboards with data modeling and DAX
 
@@ -22,7 +22,7 @@ Writing optimized SQL queries for data analysis
 
 Building portfolio-ready analytics projects
 
-# 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 
 Advanced DAX & Data Modeling (Star Schema)
 
@@ -32,7 +32,7 @@ Python (Pandas, NumPy) for data analysis
 
 Business Intelligence & Data Storytelling
 
-# 👯 I’m looking to collaborate on ...
+## 👯 I’m looking to collaborate on ...
 
 Data Analytics & Power BI projects
 
@@ -40,7 +40,7 @@ Open-source data visualization projects
 
 Real-world datasets for business problem solving
 
-# 🤔 I’m looking for help with ...
+## 🤔 I’m looking for help with ...
 
 Advanced Power BI & DAX optimization techniques
 
@@ -48,7 +48,7 @@ Real-world analytics use cases
 
 Guidance on becoming a job-ready Data Analyst
 
-# 💬 Ask me about ...
+## 💬 Ask me about ...
 
 Power BI dashboards & visualizations
 
@@ -56,16 +56,16 @@ SQL & data analysis basics
 
 My journey into Data Analytics
 
-# 📫 How to reach me:
+## 📫 How to reach me:
 
 🔗 GitHub: [(My GitHub)](https://github.com/shabeenapalemdanalyst)
 
 💼 LinkedIn: [(My LinkedIn)](https://www.linkedin.com/in/shabeenapalem/)
 
-# 😄 Pronouns:
+### 😄 Pronouns:
 
 She/Her
 
-# ⚡ Fun fact:
+### ⚡ Fun fact:
 
 I’m building my career in data analytics while being a full-time mom — mastering both data and multitasking 💪📊
